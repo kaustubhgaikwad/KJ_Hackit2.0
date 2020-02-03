@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e35afcc59a21642ec632400"},"product":"rice","rate":{"$numberInt":"25"},"quantity":{"$numberInt":"8"},"name":"seller1"}
+{"_id":{"$oid":"5e35b00059a21642ec632401"},"product":"wheat","rate":{"$numberInt":"25"},"quantity":{"$numberInt":"10"},"name":"seller2"}

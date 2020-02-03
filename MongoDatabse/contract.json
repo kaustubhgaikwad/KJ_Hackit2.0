@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e3593c603327074db48c1ea"},"product":"wheat","rate":{"$numberInt":"20"},"quantity":{"$numberInt":"10"},"seller":"seller1"}
+{"_id":{"$oid":"5e35a4a403327074db48c1eb"},"product":"rice","rate":{"$numberInt":"25"},"quantity":{"$numberInt":"8"},"seller":"seller2"}
+{"_id":{"$oid":"5e35a4bf03327074db48c1ec"},"product":"corn","rate":{"$numberInt":"15"},"quantity":{"$numberInt":"5"},"seller":"seller3"}
+{"_id":{"$oid":"5e35a4ee03327074db48c1ed"},"product":"mango","rate":{"$numberInt":"200"},"quantity":{"$numberInt":"10"},"seller":"seller4"}
+{"_id":{"$oid":"5e35a51803327074db48c1ee"},"product":"rice","rate":{"$numberInt":"25"},"quantity":{"$numberInt":"8"},"buyer":"buyer1"}
+{"_id":{"$oid":"5e35a55303327074db48c1ef"},"product":"wheat","rate":{"$numberInt":"24"},"quantity":{"$numberInt":"6"},"buyer":"buyer2"}
