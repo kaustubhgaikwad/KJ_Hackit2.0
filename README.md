@@ -27,7 +27,8 @@ Crops selling portal for farmers using blockchain
 		* file_path is location of the json file ..\MongoDatabase\user.json
 		* run this command for every collection
 		* start the server using
-		* ```python 
+		* 
+		```python 
 		python main.py
 		```
 	2. Setting up blockchain
@@ -39,8 +40,8 @@ Crops selling portal for farmers using blockchain
 			* turffle migrate --reset (After making certain changes in the smart contract i.e Deals.sol file)
 	3. React
 		* In the react directory run the command
-			'npm install'
+			npm install
 		* If you want to install any dependency using npm install any_dependency use npm install --save any_dependency
 		* start the react server using
-		* 'npm run start'  
+		* npm run start  
 
