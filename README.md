@@ -3,11 +3,11 @@ Crops selling portal for farmers using blockchain
 
 ## Instructions:
 1. ## To be installed
-		* Mongo
-		* React
-		* Truffle 
-		* Ganache
-		* Add metamask extension
+		Mongo
+		React
+		Truffle 
+		Ganache
+		Add metamask extension
 2. Setup Instructions:
 	1. Setting up the flask server:
 		* In the Flask directory run the command to install all dependency
