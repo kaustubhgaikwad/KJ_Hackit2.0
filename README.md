@@ -16,7 +16,7 @@ Crops selling portal for farmers using blockchain
 		```
 		* After installing any dependency using pip install update the requirements.txt using 
 		* ```python 
-			python -m pip freeze > dependencies.txt
+			python -m pip freeze > requirements.txt
 			```
 		* add mongo to youe environment variables 
 		* open cmd and type mongod and keep it running dont close it (So that you can use mongo db)
