@@ -27,10 +27,9 @@ Crops selling portal for farmers using blockchain
 		* file_path is location of the json file ..\MongoDatabase\user.json
 		* run this command for every collection
 		* start the server using
-		* 
-		```python 
-		python main.py
-		```
+		*	```python 
+			python main.py
+			```
 	2. Setting up blockchain
 		* open ganache and click quickstart 
 		* After adding metamask extension connect the metamask to the localhost network the same network as mentioned under RPC netowrk in ganache
