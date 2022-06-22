@@ -65,7 +65,7 @@ Naked==0.1.31
 nbconvert==5.4.1
 nbformat==4.4.0
 netaddr==0.7.19
-numpy==1.17.3
+numpy==1.22.0
 numpydoc==0.8.0
 packaging==19.0
 pandas==0.25.3
